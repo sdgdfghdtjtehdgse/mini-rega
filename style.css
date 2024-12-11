@@ -1,0 +1,55 @@
+body{
+    background-color: #f8f8f8;
+}
+.button{
+    margin-top: 15px;
+    height: 30px;
+    border:#1cbc11;
+    background-color: #1cbc11;
+    color: white;
+    width: 87.5%;
+    margin-left: 6%;
+}
+
+.name{
+    width: 85%;
+    margin-top: 35px;
+    margin-left: 6%;
+}
+.mail{
+    width: 85%;
+    margin-top: 15px;
+    margin-left: 6%;
+}
+.phone{
+    width: 85%;
+    margin-top: 15px;
+    margin-left: 6%;
+}
+.password{
+    width: 85%;
+    margin-left: 6%;
+    margin-top: 15px;
+}
+
+.passwords{
+    width: 85%;
+    margin-top: 15px;
+    margin-left: 6%;
+}
+
+div{
+    margin-top: 200px;
+    margin-left: 40%;
+    height: 350px;
+    width: 350px;
+    background-color: #fff;
+}
+input{
+    height: 30px;
+    border: 1px sloid #ccc;
+}
+
+button:hover{
+    background-color: #14a20a;
+}
